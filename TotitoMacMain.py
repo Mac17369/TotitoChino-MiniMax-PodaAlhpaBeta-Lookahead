@@ -10,7 +10,7 @@ from TotitoMacFun import *
 host_address = 'localhost'
 port_address = '5000'
 address = 'http://' + host_address + ':' + port_address
-idTorneo = 12
+idTorneo = 123456
 
 gan = 0
 per = 0
